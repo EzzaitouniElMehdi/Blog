@@ -9,10 +9,10 @@ import java.util.Set;
 
 import org.junit.jupiter.api.Test;
 
-import aitelbhiri.blog.model.ERole;
-import aitelbhiri.blog.model.Post;
-import aitelbhiri.blog.model.Role;
-import aitelbhiri.blog.model.Utilisateur;
+import mehdi.blog.model.ERole;
+import mehdi.blog.model.Post;
+import mehdi.blog.model.Role;
+import mehdi.blog.model.Utilisateur;
 
 public class UtilisateurTest {
 

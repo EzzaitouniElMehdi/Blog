@@ -7,8 +7,8 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import aitelbhiri.blog.model.Categorie;
-import aitelbhiri.blog.model.Post;
+import mehdi.blog.model.Categorie;
+import mehdi.blog.model.Post;
 
 public class CategorieTest {
 

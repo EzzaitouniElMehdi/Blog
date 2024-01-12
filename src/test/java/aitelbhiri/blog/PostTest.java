@@ -9,10 +9,10 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import aitelbhiri.blog.model.Categorie;
-import aitelbhiri.blog.model.Comment;
-import aitelbhiri.blog.model.Post;
-import aitelbhiri.blog.model.Utilisateur;
+import mehdi.blog.model.Categorie;
+import mehdi.blog.model.Comment;
+import mehdi.blog.model.Post;
+import mehdi.blog.model.Utilisateur;
 
 public class PostTest {
 
